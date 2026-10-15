@@ -17,7 +17,7 @@ templates_path = ['_templates']
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx Phantom'
+project = 'Unsphinxed'
 author = 'Elliria'
 copyright = '2026, Elliria'
 
